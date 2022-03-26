@@ -23,4 +23,11 @@
 
 ### Desenvolvimento Aula Conceitos Básicos - Parte II: 
 
-- [ ]  Qualidade em IHC ( Usabilidade, Experiê
+- [ ]  Qualidade em IHC (Usabilidade, Experiência de usuário, Acessibilidade e Comunicabilidade)
+- [ ]  Usabilidade conjunto de fatores: facilidade de aprendizado, facilidade de recordação, eficiência, segurança no uso, satisfação do usuário
+- [ ]  Experiência do usuário
+- [ ]  Acessibilidade: oferecer meios para que o usuário acesse o sistema e interaja com ele, sem que a interface imponha obstáculos
+- [ ]  Comunicabilidade: permite que os usuários tirem melhor proveito do sistema, por comunicar estratégias de uso adequadas a cada situação engenharia semiótica
+- [ ]  Exemplo avast
+- [ ]  Exemplos de interface que devem ser evitadas
+
