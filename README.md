@@ -1,1 +1,12 @@
-# Em construção
+# Interface Homem-Computador - Curso de Ciência da Computação - UFJ
+
+## PLANEJAMENTO SEMESTRAL – 2021/2 
+
+- [Aulas toda Terça-feira: 7h30 às 09h10 LEC 1 e Quarta-feira 09h30 às 11h10 LEC1]
+- [Link Dúvidas:] https://meet.google.com/kvy-hxnr-que
+- [Link WhatsApp Disciplina:] https://chat.whatsapp.com/KfLd2S7NwH2KikXpbKwHcy
+- [Plano de Ensino e Cronograma](https://github.com/anacginocencio/Interface/files/8356382/plano_ensino_ihc_2021_2.pdf)
+- [Roteiro de aulas e materiais](documentos/roteiro.md)
+
+##  CRONOGRAMA AVALIAÇÕES E ENTREGAS
+
