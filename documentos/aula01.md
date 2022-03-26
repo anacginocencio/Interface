@@ -3,7 +3,7 @@
 
 ### Materiais
 - [Plano de Ensino](plano_ensino_ihc_2021_2.pdf)
-- [Notas de aula Ciência e Conhecimento Científico](aula_introducao.pdf)
+- [Notas de aula Introdução Interface Homem-Computador](aula_introducao.pdf)
 
 ### Videoaulas interface Homem-Computador -  Introdução - Parte I e Parte II
 [![Introdução PARTE I](capa_1.png)]()
