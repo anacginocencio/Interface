@@ -25,6 +25,6 @@
 - [ ]  Desenvolvimento DE DENTRO PARA FORA e DE FORA PARA DENTRO. Qual a diferença entre desenvolver um sistema que se preocupa com os usuários?
 - [ ]  Objetos de estudo em IHC
 - [ ]  IHC como área multidisciplinar
-- [ ]  Benefícios de IHC
+- [ ]  Benefícios de  IHC
 - [ ]  Discussão em sala de aula sobre o uso de TVDI para assistir um jogo
 - [ ]  Atividade AVA sobre pagamento de contas em caixa eletrônico ou no computador.
