@@ -11,7 +11,7 @@
 
 ####  O vídeo abaixo é sobre a importância de uma interface que satisfaça as necessidades dos usuários
 
-[![material complementar](help.png)](https://www.youtube.com/watch?v=IJq-x2Vrv8c)
+[![material complementar](help1.png)](https://www.youtube.com/watch?v=IJq-x2Vrv8c)
 
 ### Desenvolvimento Aula Introdução: 
 
