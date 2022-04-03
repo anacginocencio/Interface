@@ -7,6 +7,7 @@
 - [Link WhatsApp Disciplina:] https://chat.whatsapp.com/KfLd2S7NwH2KikXpbKwHcy
 - [Plano de Ensino e Cronograma](https://github.com/anacginocencio/Interface/files/8356382/plano_ensino_ihc_2021_2.pdf)
 - [Roteiro de aulas e materiais](documentos/roteiro.md)
+- [Link Classcraft](https://www.classcraft.com/pt/)
 
 ##  CRONOGRAMA AVALIAÇÕES E ENTREGAS
 
