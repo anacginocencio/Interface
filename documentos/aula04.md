@@ -6,9 +6,9 @@
 
 
 ### Videoaulas interface Homem-Computador -  Processos de Design em IHC - Parte I e Parte IIa e ParteIIb
-[![Processos em Design PARTE I](capa_7.png)]()
-[![Processos em Design PARTE IIa](capa_8.png)]()
-[![Processos em Design PARTE IIv](capa_9.png)]()
+[![Processos em Design PARTE I](capa_7.png)](https://youtu.be/8wCu21cfZPo)
+[![Processos em Design PARTE IIa](capa_8.png)](https://youtu.be/fSRCDGgLekU)
+[![Processos em Design PARTE IIv](capa_9.png)](https://youtu.be/rjXpqmU1qn8)
 
 
 ### Desenvolvimento Processos de Design em IHC - Parte 1 
@@ -29,7 +29,7 @@
 
 
 
-### Desenvolvimento Processos de Design em IHC - Parte 2
+### Desenvolvimento Processos de Design em IHC - Parte 2 a e b
 
 - [ ]  Processos de design PARTE 2: Design Contextual, Design Baseado em Cenários, Design Dirigido por Objetivos, Design Centrado na Comunicação
 - [ ]  Design Contextual: Compreensão profunda das necessidades dos usuários.
