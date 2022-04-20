@@ -2,7 +2,7 @@
 ## Tema aula - Processos de Design em IHC
 
 ### Materiais
-- [Notas de aula Processos de Design de IHC - Parte I e Parte II](processos_de_design_em_ihc_completo.pdf)
+- [Notas de aula Processos de Design de IHC - Parte I e Parte II](processos_design_ihc_completo.pdf)
 
 
 ### Videoaulas interface Homem-Computador -  Processos de Design em IHC - Parte I e Parte IIa e ParteIIb
