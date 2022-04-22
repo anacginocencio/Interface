@@ -6,7 +6,7 @@
 - [Notas de aula Identificação de necessidades dos usuários e requisitos de IHC - Parte I e Parte II](identificacao_necessidades_usuarios_requisitos_ihc.pdf)
 
 
-### Videoaulas Interface Homem-Computador -  Processos de Design em IHC - Parte I e Parte IIa e ParteIIb
+### Videoaulas Interface Homem-Computador -  Identificação de necessidades dos usuários e requisitos de IHC - Parte I e Parte II
 [![Identificação de Necessidades dos Usuários e Requisitos de IHC - Parte I](capa_10.png)](https://youtu.be/JN7ojIqVpVY)
 [![Identificação de Necessidades dos Usuários e Requisitos de IHC - Parte II](capa_11.png)](https://youtu.be/H2m1vJw7gmY)
 
