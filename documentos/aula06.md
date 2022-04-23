@@ -38,5 +38,7 @@
 - [ ]  GOMS (Objetivos, Operadores, Métodos e Regras de Seleção)
 - [ ]  KLM, CMN-GOMS e CPM-GOMS
 - [ ]  KLM é a mais simples, limitada a um conjunto predefinido de operadores primitivos
-- [ ]  CMN-GOMS tem uma hierarquia de objetivos e operadores (notaç
+- [ ]  CMN-GOMS tem uma hierarquia de objetivos e operadores (notação semelhante a pseudocódigo) - Exemplo encontrar sentido de uma rua no MAPS
+- [ ]  CPM-GOMS - representa operadores cognitivos, perceptivos e motores, sendo baseado diretamento no processador humano de informações
+- [ ]  Árvore de tarefas concorrentes (Tarefas do usuário, Tarefas do sistema, Tarefas interativas e Tarefas abstratas)
 
