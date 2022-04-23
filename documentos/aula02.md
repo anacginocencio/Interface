@@ -6,8 +6,8 @@
 - [Notas de aula Conceitos Básicos - Parte II](conceitos_basicos_parteII.pdf)
 
 ### Videoaulas interface Homem-Computador -  Conceitos Básicos - Parte I e Parte II
-[![Conceitos Básicos PARTE I](capa_3.png)]()
-[![Conceitos Básicos PARTE II](capa_4.png)]()
+[![Conceitos Básicos PARTE I](capa_3.png)](https://youtu.be/dyawYUfLSzQ)
+[![Conceitos Básicos PARTE II](capa_4.png)](https://youtu.be/gbmsShIugq8)
 
 ### Desenvolvimento Aula Conceitos Básicos - Parte I: 
 
