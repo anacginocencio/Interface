@@ -6,8 +6,8 @@
 - [Notas de aula Introdução Interface Homem-Computador](aula_introducao.pdf)
 
 ### Videoaulas interface Homem-Computador -  Introdução - Parte I e Parte II
-[![Introdução PARTE I](capa_1.png)]()
-[![Introdução PARTE II](capa_2.png)]()
+[![Introdução PARTE I](capa_1.png)](https://youtu.be/IbJtK9gAyGo)
+[![Introdução PARTE II](capa_2.png)](https://youtu.be/ovQINIGDYkE)
 
 ####  O vídeo abaixo é sobre a importância de uma interface que satisfaça as necessidades dos usuários
 
