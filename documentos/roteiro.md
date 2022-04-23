@@ -1,10 +1,10 @@
 ### CRONOGRAMA AULAS - UNIDADE I
-- [22/03/2022 a 23/03/2022 - Apresentação Disciplina e Introdução - 4h](aula01.md)
-- [29/03/2022 a 30/03/2022 - Conceitos Básicos - 4h](aula02.md)
-- [05/04/2022 a 06/04/2022 - Abordagens Teóricas em IHC - 4h](aula03.md)
-- [12/04/2022 a 13/04/2022 - Processos de Design de IHC - 4h](aula04.md)
-- [19/04/2022 a 20/04/2022 - Necessidades de Usuários e Requisitos - 4h](aula05.md)
-- [26/04/2022 a 27/04/2022 - Organização do Espaço Problema e Apresentação Projeto a ser desenvolvido - 4h](aula06.md)
+- [22/03/2022 a 23/03/2022 - Apresentação Disciplina e Introdução - 4h - DISPONÍVEL](aula01.md)
+- [29/03/2022 a 30/03/2022 - Conceitos Básicos - 4h - DISPONÍVEL](aula02.md)
+- [05/04/2022 a 06/04/2022 - Abordagens Teóricas em IHC - 4h - DISPONÍVEL](aula03.md)
+- [12/04/2022 a 13/04/2022 - Processos de Design de IHC - 4h - DISPONÍVEL](aula04.md)
+- [19/04/2022 a 20/04/2022 - Necessidades de Usuários e Requisitos - 4h - DISPONÍVEL](aula05.md)
+- [26/04/2022 a 27/04/2022 - Organização do Espaço Problema e Apresentação Projeto a ser desenvolvido - 4h - DISPONÍVEL](aula06.md)
 - #### [03/05/2022 - PRIMEIRA AVALIAÇÃO - 2h]()
 ### CRONOGRAMA AULAS - UNIDADE II
 - [04/05/2022 a 10/05/2022 - Design de IHC - 4h]()
