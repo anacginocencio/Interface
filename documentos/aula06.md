@@ -3,7 +3,7 @@
 
 
 ### Materiais
-- [Notas de aula Organização do Espaço Problema - Parte I e Parte II](organizacao_espaco_problema_completo.pdf)
+- [Notas de aula Organização do Espaço Problema - Parte I e Parte II](Organizacao_espaco_problema_completo.pdf)
 
 
 ### Videoaulas Interface Homem-Computador -  Organização do Espaço Problema
