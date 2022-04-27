@@ -11,3 +11,6 @@
 
 ##  CRONOGRAMA AVALIAÇÕES E ENTREGAS
 
+- [03/05/2022 - Primeira Avaliação]
+- [29/06/2022 - Segunda Avaliação]
+- [01/07/2022 - Entrega Projeto Final]
