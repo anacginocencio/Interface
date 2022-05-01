@@ -15,7 +15,15 @@
 
 ### Design de IHC - Parte I 
 
-- [ ]  Como Registrar e organizar o aprendizado do designer, de modo a melhor compreender as informações obtidas na etapa de análise
+- [ ]  Desenvolvimento do projeto de intervenção, modelos referentes ao projeto de sistema interativo que será implementado
+- [ ]  Apresentar quais são as representações utilizadas em IHC (cenários de problema, cenários de interação, personas, signos (conteúdo e expressão), mapa de objetivos, modelo de tarefas, modelo de interação, wireframe, esboços e protótipos
+- [ ]  Cenários de interação, definir a interação as intervenções a serem realizadas, fornecem detalhes das ações do usuário e as respectivas respostas do sistema
+- [ ]  Design centrado na comunicação 
+- [ ]  Em design da interação o objetivo é completar a segunda parte da metamensagem (Sistema que projetei para você...)
+- [ ]  Em design de interação a interação é vista como uma conversa entre designer e usuário, durante a conversa usuário-sistema
+- [ ]  Definir o que é conversa e como especificar uma conversa entre usuário e designer
+- [ ]  Mapa de objetivos dos usuár
+
 
 
 
