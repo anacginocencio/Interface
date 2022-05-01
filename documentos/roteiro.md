@@ -7,7 +7,7 @@
 - [26/04/2022 a 27/04/2022 - Organização do Espaço Problema e Apresentação Projeto a ser desenvolvido - 4h - DISPONÍVEL](aula06.md)
 - #### [03/05/2022 - PRIMEIRA AVALIAÇÃO - 2h]()
 ### CRONOGRAMA AULAS - UNIDADE II
-- [04/05/2022 a 10/05/2022 - Design de IHC - 6h](aula07.md)
+- [04/05/2022 a 10/05/2022 - Design de IHC - 6h - DISPONÍVEL](aula07.md)
 - [11/05/2022 - 18/05/2022 - Princípios e Diretrizes para o Design de IHC - 4h]()
 - #### [24/05/2022 a 25/05/2022 - Feira das Profissões - 4h]
 - #### [31/05/2022 - Feriado Aniversário Jataí]
