@@ -51,4 +51,8 @@
 - [ ]  kahoot design de ihc - parte II
 
 ### Design de IHC - Parte III 
-- [ ]  Análise de tarefas
+- [ ]  Design da Interface
+- [ ]  Conforme o design de interação avança o designer passa a definir a interface propriamente dita
+- [ ]  Primeira tarefa escolha do estilo de interação (linguagem de comando, natural, interação por menus, por formulários, por manipulação direta e WIMP(Windows, Icons, Menus, and pointing device)
+- [ ]  Logo apó
+
