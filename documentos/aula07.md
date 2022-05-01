@@ -32,8 +32,6 @@
 - [ ]  Definição grupos de trabalho e apresentação do projeto de IHC
 - [ ]  kahoot design de ihc - parte I
 
-
-
 ### Design de IHC - Parte II  
 
 - [ ]  Prevenção e recuperação de rupturas comunicativas
@@ -47,10 +45,10 @@
 - [ ]  Como demonstrar objetivo, tarefa e operador em um diagrama de modelagem de tarefas com foco na intervenção
 - [ ]  Modelagem de Interação - Diagrama MOLIC
 - [ ]  MOLIC - linguagem para modelagem da interação humano-computador como uma conversa
-- [ ]  MOLIC serve como ponte entre a definiç
-
-
-
+- [ ]  MOLIC serve como ponte entre a definição dos objetivos dos usuários e o projeto da interface
+- [ ]  Extrair os objetivos do mapa de objetivos
+- [ ]  Para cada objtivo fazer o diagrama MOLIC
+- [ ]  kahoot design de ihc - parte II
 
 ### Design de IHC - Parte III 
 - [ ]  Análise de tarefas
