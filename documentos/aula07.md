@@ -22,7 +22,14 @@
 - [ ]  Em design da interação o objetivo é completar a segunda parte da metamensagem (Sistema que projetei para você...)
 - [ ]  Em design de interação a interação é vista como uma conversa entre designer e usuário, durante a conversa usuário-sistema
 - [ ]  Definir o que é conversa e como especificar uma conversa entre usuário e designer
-- [ ]  Mapa de objetivos dos usuár
+- [ ]  Mapa de objetivos dos usuários
+- [ ]  Objetivos finais, objetivos instrumentais
+- [ ]  Objetivos instrumentais diretos (AGORA) Objetivos instrumentais indiretos (EM UM FUTURO)
+- [ ]  Exemplo de mapa de objetivos PROFESSOR E ALUNO sistema de divulgação de material, atividades e notas de uma disciplina.
+- [ ]  Esquema conceitual de signos - Como extrair signos de uma especificação de conversa?
+- [ ]  Signo entidade, signo atributo
+- [ ]  Signo de domí
+
 
 
 
