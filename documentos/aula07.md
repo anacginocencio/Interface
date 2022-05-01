@@ -54,5 +54,14 @@
 - [ ]  Design da Interface
 - [ ]  Conforme o design de interação avança o designer passa a definir a interface propriamente dita
 - [ ]  Primeira tarefa escolha do estilo de interação (linguagem de comando, natural, interação por menus, por formulários, por manipulação direta e WIMP(Windows, Icons, Menus, and pointing device)
-- [ ]  Logo apó
+- [ ]  Logo após passa-se para as representações da interface
+- [ ]  Esboços, protótipos
+- [ ]  interface abstrata, interface concreta
+- [ ]  esboço em baixa fidelidade
+- [ ]  esboço em alta fidelidade
+- [ ]  protótipo executável
+- [ ]  Como mapear os diagramas MOLIC em itens da interface
+- [ ]  Esquema conceitual de signos expressão
+- [ ]  Projeto do sistema de ajuda
+- [ ]  Kahoot design de ihc - parte III
 
