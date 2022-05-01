@@ -28,9 +28,9 @@
 - [ ]  Exemplo de mapa de objetivos PROFESSOR E ALUNO sistema de divulgação de material, atividades e notas de uma disciplina.
 - [ ]  Esquema conceitual de signos - Como extrair signos de uma especificação de conversa?
 - [ ]  Signo entidade, signo atributo
-- [ ]  Signo de domí
-
-
+- [ ]  Signo de domínio, signo transformado, signo de aplicação e signo convencional
+- [ ]  Definição grupos de trabalho e apresentação do projeto de IHC
+- [ ]  kahoot design de ihc - parte I
 
 
 
