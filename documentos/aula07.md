@@ -36,7 +36,20 @@
 
 ### Design de IHC - Parte II  
 
-- [ ]  Análise de tarefas
+- [ ]  Prevenção e recuperação de rupturas comunicativas
+- [ ]  Prevenção passiva (dd/mm/aaaa)
+- [ ]  Prevenção ativa (campo numérico só aceita número)
+- [ ]  Prevenção apoiada (evita que um erro aconteça: "Você deseja sobrescrever este arquivo"
+- [ ]  Recuperação apoiada: auxilia o usuário a se recuperar de uma ruptura. (preencheu um campo incorretamente e o sistema demonstra o erro e pede a correção)
+- [ ]  Captura de erro: Sistema detectou um erro e solicita ao usuário se existe algo que possa ser feito fora do sistema para correção. Exemplo: arquivo corrompido e pede para copiar novamente.
+- [ ]  Como demonstrar os mecanismos de prevenção e recuperação na tabela de signos
+- [ ]  Modelagem de tarefas
+- [ ]  Como demonstrar objetivo, tarefa e operador em um diagrama de modelagem de tarefas com foco na intervenção
+- [ ]  Modelagem de Interação - Diagrama MOLIC
+- [ ]  MOLIC - linguagem para modelagem da interação humano-computador como uma conversa
+- [ ]  MOLIC serve como ponte entre a definiç
+
+
 
 
 ### Design de IHC - Parte III 
