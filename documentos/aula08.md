@@ -7,8 +7,8 @@
 
 
 ### Videoaulas Interface Homem-Computador -  Princípios e Diretrizes 
-[![Princípios e Diretrizes para o Design de IHC - Parte I](capa_17.png)](https://youtu.be/KkANG3_zaic)
-[![Princípios e Diretrizes para o Design de IHC - Parte II](capa_18.png)](https://youtu.be/yA6xtST_G8Q)
+[![Princípios e Diretrizes para o Design de IHC - Parte I](capa_17.png)](https://youtu.be/2lg91Rmjna4)
+[![Princípios e Diretrizes para o Design de IHC - Parte II](capa_18.png)](https://youtu.be/wYkkj6YlfEo)
 
 
 ### Princípios e Diretrizes para o Design de IHC - Parte I 
