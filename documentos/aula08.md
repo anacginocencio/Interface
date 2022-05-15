@@ -31,5 +31,18 @@
 
 ### Princípios e Diretrizes para o Design de IHC - Parte II  
 
-- [ ]  Prevenção e recuperação de rupturas comunicativas
+- [ ]  Antecipação, é tentar prever o que o usuário quer e precisa, para fornecer as ferramentas necessárias naquele momento.
+- [ ]  O sistema deve ser observador e lembrar quais açòes o usuário realiza com frequência e deixá-las mais acessíveis.
+- [ ]  Visibilidade e reconhecimento. É necessário abreviar os golfos de execução e avaliação, tornando visível ao usuário o que é possível realizar naquele momento
+- [ ]  Sistema não deve exagerar em mensagens de status, mas ao mesmo tempo deve possibilidar ao usuário o entendimento o estado do sistema de forma rápida
+- [ ]  Decidir qual a melhor informação de status, dependendo da situação. Exemplo de feedback CADASTRO DE ARQUIVO FEITO COM SUCESSO e feedback PROBLEMA COM CADASTRO DE ARQUIVO, neste último é importante uma mensagem mais destacada que permita ao usuário uma melhor visibilidade.
+- [ ]  Exemplos de tempos e mensagens para que o usuário não pense que o programa não está respondendo.
+- [ ]  Conteúdo relevante e expressão adequada. Nesta conversa cooperativa é importante pensar em quatro máximas: QUALIDADE, QUANTIDADE, RELAÇÃO, MODO.
+- [ ]  QUALIDADE: Não devemos dizer nada que saibamos não ser verdade
+- [ ]  QUANTIDADE: Deve ser fornecida a quantidade adequada de informação. Uma constante em IHC: MENOS É MAIS
+- [ ]  RELAÇÃO ou RELEVÂNCIA: Tudo o que for dito deve ter relação clara com os tópicos da conversa.
+- [ ]  MODO ou CLAREZA: Evitar a prolixidade e ambiguidade, ordenar adequadamente a conversa.
+- [ ]  Exemplo INSERIR, ACRESCENTAR E CONSTRUIR. Poderia ser INSERIR PARA TODOS OS CASOS, facilitando a identificação das ações pelo usuário.
+- [ ]  Tornar o texto apresentado legível, dados em fonte com destaque. Para pessoas com deficiência visual é importante poder aumentar as fontes.
+- [ ]  Projeto para Erros
 
