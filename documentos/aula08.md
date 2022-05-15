@@ -1,5 +1,5 @@
 # Aula 08 - Interface Homem-Computador
-# Tema aula - Princípios e Diretrizes para o Designde IHC
+# Tema aula - Princípios e Diretrizes para o Design de IHC
 
 
 ### Materiais
