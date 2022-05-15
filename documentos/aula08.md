@@ -44,5 +44,11 @@
 - [ ]  MODO ou CLAREZA: Evitar a prolixidade e ambiguidade, ordenar adequadamente a conversa.
 - [ ]  Exemplo INSERIR, ACRESCENTAR E CONSTRUIR. Poderia ser INSERIR PARA TODOS OS CASOS, facilitando a identificação das ações pelo usuário.
 - [ ]  Tornar o texto apresentado legível, dados em fonte com destaque. Para pessoas com deficiência visual é importante poder aumentar as fontes.
-- [ ]  Projeto para Erros
+- [ ]  Projeto para Erros: É assumir que erros podem ser cometidos e ajudar os usuários a se recuperar, reverter operações reversíveis e dificultar operações irreversíveis.
+- [ ]  Um botão DESABILITAR perto de um botão PROPRIEDADES, por exemplo, pode levar o usuário a cometer o engano de desabilitar sua rede, por engano, enquanto o que queria era apenas verificar as propriedades.
+- [ ]  Ajudar os usuários a esclarecerem suas dúvidas.
+- [ ]  Guias de estilo: Trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final.
+- [ ]  Discussão N1.
+
+
 
