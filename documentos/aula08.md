@@ -25,7 +25,8 @@
 - [ ]  Usuários não devem ficar presos em um caminho de interação único.
 - [ ]  É necessário permitir que o usuário cancele, desfaça e refaça ações, assim permite um aprendizado baseado na exploração, pois o usuário poderá explorar o sistema e terá a possibilidade de desfazer ações, se necessário for.
 - [ ]  Consistência e padronização, sendo que a consistência mais importante é com as expectativas.
-- [ ]  Promovendo a eficiê
+- [ ]  Promovendo a eficiência. É importante lembrar que os usuários tendem a se tornar intermediários com um tempo de uso do sistema, com isso é necessário fornecer mecanismos que possam acelerar suas ações, como atalhos, por exemplo.
+- [ ]  Exercício PICTOGRAMA
 
 
 ### Princípios e Diretrizes para o Design de IHC - Parte II  
