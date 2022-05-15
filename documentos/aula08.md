@@ -3,7 +3,7 @@
 
 
 ### Materiais
-- [Notas de aula Princípios e Diretrizes para o Designde IHC - Parte I e Parte II](principios_diretrizes_design_ihc.pdf)
+- [Notas de aula Princípios e Diretrizes para o Design de IHC - Parte I e Parte II](principios_diretrizes_design_ihc.pdf)
 
 
 ### Videoaulas Interface Homem-Computador -  Princípios e Diretrizes 
