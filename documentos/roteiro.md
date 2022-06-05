@@ -11,7 +11,7 @@
 - [17/05/2022 - 18/05/2022 - Princípios e Diretrizes para o Design de IHC - DISPONÍVEL - 4h](aula08.md)
 - #### [24/05/2022 a 25/05/2022 - Feira das Profissões - 4h]
 - #### [31/05/2022 - Feriado Aniversário Jataí]
-- [01/06/2022 A 08/06/2022 - Planejamento e Avaliação de IHC - 6h]()
+- [01/06/2022 A 08/06/2022 - Planejamento e Avaliação de IHC - DISPONÍVEL- 6h](aula09.md)
 - [14/06/2022 a 21/06/2022 - Métodos de Avaliação - 6h]()
 - [22/06/2022 a 28/06/2022 - Desenvolvimento Projeto - 4h]()
 - #### [29/06/2022 - SEGUNDA AVALIAÇÃO - 2h]()
