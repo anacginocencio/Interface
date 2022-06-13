@@ -11,7 +11,7 @@
 [![Métodos de avaliação de IHC - Parte II](capa_23.png)](https://youtu.be/15G7pk8qr3s)
 [![Métodos de avaliação de IHC - Parte III](capa_24.png)](https://youtu.be/rXBq6pKdib0)
 
-### Vídeo a importância de um bom planejamento
+### Vídeo prototipação em papel
 [![Prototipação em papel](prototipacao_papel.png)](https://www.youtube.com/watch?v=DyE6g-j2Ld4)
 
 
