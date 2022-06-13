@@ -17,14 +17,25 @@
 
 ### Métodos de Avaliação de IHC - Parte I 
 
-- [ ]  A importância da avaliação no processo de desenvolvimento
-
+- [ ]  AVALIAÇÃO DE IHC POR MEIO DE INSPEÇÃO
+- [ ]  Métodos por inspeção, têm como objetivo tentar antever as possíveis consequências de certas decisões de design. Não envolvem a participação dos usuários. Trantando de uso potenciais e não reais. Permitem identificar problemas que os usuários podem vir a ter.
+- [ ]  Alguns métodos de inspeção são: avaliação heurística, percurso coginitivo, método de inspeção semiótica.
+- [ ]  Avaliação heurística:criado para encontrar problemas de usabilidade durante um processo de design iterativo, orientando os avaliadores a inspecionar sistematicamente a interface em busca de problemas. É um método simples, rápido e de baixo custo. Tem como base um conjunto inicial de 10 heurísticas, proposto por Nielsen.
+- [ ]  Percurso Cognitivo: tem por objetivo avaliar a facilidade de aprendizado. Motivado pela preferência de muitas pessoas em APRENDER FAZENDO.
 
 ### Métodos de Avaliação de IHC - Parte II 
 
-- [ ]  ONDE COLETAR DADOS SOBRE EXPERIÊNCIAS DE USO: Caso o objetivo seja avaliar a adaptação da solução ao ambiente real do usuário, deve-se conduzir uma avaliação no contexto de uso real
+- [ ]  Método de inspeção semiótica: avalia a comunicabilidade de uma solução de IHC, considerando a emissão da metacomunicação do designer. Sendo assim, para cada tipo de signo (estático, dinâmico e metalinguístico) o avaliador deverá fazer uma análise e reconstruir a metamensagem do designer.
+- [ ]  AVALIAÇÃO DE IHC POR MEIO DE OBSERVAÇÃO
+- [ ]  Alguns métodos de observação: teste de usabilidade, método de avaliação de comunicabilidade, prototipação em papel.
+- [ ]  Teste de usabilidade, avalia a usabilidade do sistema interativo por meio de observações de experiências de uso.
+- [ ]  Avaliação de comunicabilidade: sendo feito com a participação dos usuários, este tipo de métodos avalia a qualidade da recepção da metacomunicação. Para aplicar este método é necessário gravar vídeos com a experiência de uso do sistema interativo e, uma das fases importantes, é a etiquetagem dos vídeos para tentar entender o comportamento do usuário durante o uso do sistema interativo.
+- [ ]  kahoot: métodos de avaliação - parte I
+
 
 
 ### Métodos de Avaliação de IHC - Parte III 
 
-- [ ]  COMO AVALIAR? Preparação, coleta de dados, interpretação, consolidação, relato dos resultados
+- [ ]  Descrição da etiquetagem de vídeos, como processo para interpretação da experiência dos usuários durante o uso do sistema interativo. Etiquetas: Cadê?  E agora?  O que é isto?  Epa!  Onde estou?  Ué, o que houve?  Por que não funciona? Assim não dá. Vai de outro jeito. Não, obrigado! Pra mim está bom.  Socorro!  Desisto.
+- [ ]  Prototipaç
+
