@@ -12,7 +12,7 @@
 - #### [24/05/2022 a 25/05/2022 - Feira das Profissões - 4h]
 - #### [31/05/2022 - Feriado Aniversário Jataí]
 - [01/06/2022 A 08/06/2022 - Planejamento e Avaliação de IHC - DISPONÍVEL- 6h](aula09.md)
-- [14/06/2022 a 21/06/2022 - Métodos de Avaliação - 6h]()
+- [14/06/2022 a 21/06/2022 - Métodos de Avaliação - DISPONÍVEL - 6h](aula10.md)
 - [22/06/2022 a 28/06/2022 - Desenvolvimento Projeto - 4h]()
 - #### [29/06/2022 - SEGUNDA AVALIAÇÃO - 2h]()
 - #### [01/07/2022 - Extra - Entrega Projeto e Dúvidas - 4h]()
