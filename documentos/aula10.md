@@ -37,5 +37,6 @@
 ### Métodos de Avaliação de IHC - Parte III 
 
 - [ ]  Descrição da etiquetagem de vídeos, como processo para interpretação da experiência dos usuários durante o uso do sistema interativo. Etiquetas: Cadê?  E agora?  O que é isto?  Epa!  Onde estou?  Ué, o que houve?  Por que não funciona? Assim não dá. Vai de outro jeito. Não, obrigado! Pra mim está bom.  Socorro!  Desisto.
-- [ ]  Prototipaç
-
+- [ ]  Prototipação em papel: avalia a usabilidade de um design de IHC, representado em papel, por meio de simulações de uso com a participação de potenciais usuários. É um método que pode ser utilizado em uma avaliação formativa, junto aos usuários. Sendo uma forma divertida, alternativa a outros tipos de protótipos.
+- [ ]  Resumo comparativo dos métodos e suas principais características quanto a adequação ao momento e disponibilidades de avaliação.
+- [ ]  DESAFIO: Avaliação Heurística X Avaliação de Comunicabilidade
