@@ -9,13 +9,13 @@
 ### 07/03/2023 - PRIMEIRA AVALIAÇÃO - 2h
 
 ## CRONOGRAMA AULAS - UNIDADE II
-- [04/05/2022 a 11/05/2022 - Design de IHC - 6h - DISPONÍVEL](aula07.md)
-- [17/05/2022 - 18/05/2022 - Princípios e Diretrizes para o Design de IHC - DISPONÍVEL - 4h](aula08.md)
-- #### [24/05/2022 a 25/05/2022 - Feira das Profissões - 4h]
-- #### [31/05/2022 - Feriado Aniversário Jataí]
-- [01/06/2022 A 08/06/2022 - Planejamento e Avaliação de IHC - DISPONÍVEL- 6h](aula09.md)
-- [14/06/2022 a 21/06/2022 - Métodos de Avaliação - DISPONÍVEL - 6h](aula10.md)
-- [22/06/2022 a 28/06/2022 - Desenvolvimento Projeto - 4h]()
-- #### [29/06/2022 - SEGUNDA AVALIAÇÃO - 2h]()
-- #### [01/07/2022 - Extra - Entrega Projeto e Dúvidas - 4h]()
-- #### [05/07/2022 - Discussão Média Final - 2h]()
+- [08/03/2023 a 15/03/2023 - Design de IHC - 6h](aula07.md)
+- [21/03/2023 - 22/03/2023 - Princípios e Diretrizes para o Design de IHC - 4h](aula08.md)
+- [28/03/2023 A 04/04/2023 - Planejamento e Avaliação de IHC - 6h](aula09.md)
+- [05/04/2023 a 12/04/2023 - Métodos de Avaliação - 6h](aula10.md)
+### 18/04/2023 - SEGUNDA AVALIAÇÃO - 2h
+### 19/04/2023 - Desenvolvimento Projeto - 2h
+### 25/04/2023 a 26/04/2023 FEIRA DAS PROFISSÕES - 4h
+### 28/04/2023 - Extra -  Dúvidas Projeto - 4h
+### 02/05/2023 - ENTREGA PROJETO E DÚVIDAS - 2h
+### 08/05/2023 - Discussão Média Final - 2h
