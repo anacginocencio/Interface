@@ -12,9 +12,9 @@
 - [08/03/2023 a 21/03/2023 - Design de IHC - 6h](aula07.md)
 - [22/03/2023 - 28/03/2023 - Princípios e Diretrizes para o Design de IHC - 4h](aula08.md)
 - [04/04/03/2023 A 11/04/2023 - Planejamento e Avaliação de IHC - 6h](aula09.md)
-- [12/04/2023 a 18/04/2023 - Métodos de Avaliação - 6h](aula10.md)
-### 19/04/2023 - Segunda Avaliação - 2h
-### 25/04/2023 a 26/04/2023 FEIRA DAS PROFISSÕES - 4h
-### 28/04/2023 - Extra -  Dúvidas Projeto - 6h
+- [12/04/2023 a 19/04/2023 - Métodos de Avaliação - 6h](aula10.md)
+### 25/04/2023 - Segunda Avaliação - 2h
+### 26/04/2023 - Dúvidas Projeto - 2h
+### 28/04/2023 - Extra -  Dúvidas Projeto - 8h
 ### 02/05/2023 - ENTREGA PROJETO E DÚVIDAS - 2h
 ### 08/05/2023 - Discussão Média Final - 2h
