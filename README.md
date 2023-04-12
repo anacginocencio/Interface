@@ -9,5 +9,5 @@
 ##  CRONOGRAMA AVALIAÇÕES E ENTREGAS
 
 - [07/03/2023 - Primeira Avaliação]
-- [25/04/2023 - Segunda Avaliação]
+- [26/04/2023 - Segunda Avaliação]
 - [02/05/2023 - Entrega Projeto Final]
