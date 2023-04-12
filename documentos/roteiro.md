@@ -15,7 +15,7 @@
 ### 29/03/2023 - Não Haverá Aula
 - [04/04/03/2023 A 11/04/2023 - Planejamento e Avaliação de IHC - 6h](aula09.md)
 ### 12/04/2023 - Dúvidas Projeto - 2h
-- [19/04/2023 a 25/04/2023 - Métodos de Avaliação - 6h](aula10.md)
+- [18/04/2023 a 25/04/2023 - Métodos de Avaliação - 6h](aula10.md)
 ### 26/04/2023 - Segunda Avaliação - 2h
 ### 28/04/2023 - Extra -  Dúvidas Projeto - 8h
 ### 02/05/2023 - ENTREGA PROJETO - 2h
