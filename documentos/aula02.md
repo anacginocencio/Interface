@@ -10,6 +10,9 @@
 [![Conceitos Básicos PARTE II](capa_4.png)](https://youtu.be/gbmsShIugq8)
 
 ### Desenvolvimento Aula Conceitos Básicos - Parte I: 
+- [ ]  GAME 1 - IHC PLICKERS - PRIMEIRO JOGO GAMIFICAÇÃO
+
+### Desenvolvimento Aula Conceitos Básicos - Parte I: 
 
 - [ ]  Interação (elementos envolvidos na interação usuários sistema)
 - [ ]  Elementos em uma situação típica de uso: contexto, objetivo, usuário, processo de interação, interface do sistema
