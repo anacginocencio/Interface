@@ -10,7 +10,8 @@
 [![Conceitos Básicos PARTE II](capa_4.png)](https://youtu.be/gbmsShIugq8)
 
 ### GAMIFICAÇÃO JOGO 1
-- [ ]  GAME 1 - IHC PLICKERS - PRIMEIRO JOGO GAMIFICAÇÃO
+- [ ]  ENTREGA CARTÕES PLICKERS E EXPLICAÇÃO SOBRE O USO
+- [ ]  INÍCIO DA AULA - GAME 1 - IHC PLICKERS - PRIMEIRO JOGO GAMIFICAÇÃO
 
 ### Desenvolvimento Aula Conceitos Básicos - Parte I: 
 
@@ -33,4 +34,7 @@
 - [ ]  Comunicabilidade: permite que os usuários tirem melhor proveito do sistema, por comunicar estratégias de uso adequadas a cada situação engenharia semiótica
 - [ ]  Exemplo avast
 - [ ]  Exemplos de interface que devem ser evitadas
+
+### Design Participativo
+- [ ]  Definição de duas atividades para a gamificação a escolha dos alunos
 
