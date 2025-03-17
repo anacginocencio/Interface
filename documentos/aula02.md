@@ -37,6 +37,6 @@
 - [ ]  Exemplos de interface que devem ser evitadas
 
 ### Design Participativo
-- [ ]  Definição de duas atividades para a gamificação a escolha dos alunos
+- [ ]  Definição de duas atividades para a gamificação a escolha dos alunos (TIGRINHO e TRUCO)
 - [ ]  Cadastro no ClassDojo
 
