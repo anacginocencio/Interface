@@ -13,6 +13,7 @@
 - [ ]  ENTREGA CARTÕES PLICKERS E EXPLICAÇÃO SOBRE O USO
 - [ ]  INÍCIO DA AULA - GAME 1 - IHC PLICKERS - PRIMEIRO JOGO GAMIFICAÇÃO
 
+
 ### Desenvolvimento Aula Conceitos Básicos - Parte I: 
 
 - [ ]  Interação (elementos envolvidos na interação usuários sistema)
@@ -37,4 +38,5 @@
 
 ### Design Participativo
 - [ ]  Definição de duas atividades para a gamificação a escolha dos alunos
+- [ ]  Cadastro no ClassDojo
 
