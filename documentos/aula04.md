@@ -40,3 +40,4 @@
 - [ ]  Métodos ágeis e IHC
 - [ ]  KAHOOT 
 - [ ]  Atividade SIGAA
+- [ ]  ClassDojo 
