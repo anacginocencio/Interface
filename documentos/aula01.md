@@ -16,10 +16,10 @@
 #### Vídeo 3 - iPhone 1 - Steve Jobs MacWorld keynote in 2007
 (https://www.youtube.com/watch?v=VQKMoT-6XSg)
 
-### Artigo
+#### Artigo
 - [Artigo Bush, V. (1945). As We May Think](Bush_As_We_May_Think.pdf)
 
-### Desenvolvimento Aula 1 - Introdução: 
+## Desenvolvimento Aula 1 - Introdução: 
 
 - [ ]  Apresentação plano de ensino atual
 - [ ]  O que é IHC
@@ -29,7 +29,7 @@
 - [ ]  Análise Interface - Urna Eletrônica
 - [ ]  Vídeo Helpdesk
 
-### Desenvolvimento Aula 2 - Introdução: 
+## Desenvolvimento Aula 2 - Introdução: 
 - [ ]  A construção de sistemas interativos
 - [ ]  Objetos de estudo em IHC
 - [ ]  IHC como área multidisciplinar
