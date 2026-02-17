@@ -5,13 +5,16 @@
 - [Notas de aula Introdução Interface Homem-Computador](Aula_introducao_atualizada.pdf)
 
 
-####  Materiais extras
+###  Materiais extras
 
-## Vídeo 1 - HelpDesk
+#### Vídeo 1 - HelpDesk
 (https://www.youtube.com/watch?v=IJq-x2Vrv8c)
 
-## Vídeo 2 - 1968 “Mother of All Demos” by SRI’s Doug Engelbart and Team
+#### Vídeo 2 - 1968 “Mother of All Demos” by SRI’s Doug Engelbart and Team
 (https://www.youtube.com/watch?v=IJq-x2Vrv8c](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+
+#### Vídeo 3 - iPhone 1 - Steve Jobs MacWorld keynote in 2007
+(https://www.youtube.com/watch?v=IJq-x2Vrv8c](https://www.youtube.com/watch?v=B6rKUf9DWRI](https://www.youtube.com/watch?v=VQKMoT-6XSg)
 
 
 ### Desenvolvimento Aula 1 - Introdução: 
