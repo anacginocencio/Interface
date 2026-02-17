@@ -1,5 +1,5 @@
 ## AULAS - UNIDADE I
-- [Apresentação Disciplina e Introdução - 4h](aula01.md)
+- [Introdução - 4h](aula01.md)
 - [Conceitos Básicos - 4h](aula02.md)
 - [Abordagens Teóricas em IHC - 4h](aula03.md)
 - [Processos de Design de IHC - 4h ](aula04.md)
