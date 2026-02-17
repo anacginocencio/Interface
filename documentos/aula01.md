@@ -5,9 +5,14 @@
 - [Notas de aula Introdução Interface Homem-Computador](Aula_introducao_atualizada.pdf)
 
 
-####  O vídeo abaixo é sobre a importância de uma interface que satisfaça as necessidades dos usuários
+####  Materiais extras
 
+## Vídeo 1 - HelpDesk
+[![material complementar]](https://www.youtube.com/watch?v=IJq-x2Vrv8c)
+
+## Vídeo 2 - 1968 “Mother of All Demos” by SRI’s Doug Engelbart and Team
 [![material complementar](help1.png)](https://www.youtube.com/watch?v=IJq-x2Vrv8c)
+
 
 ### Desenvolvimento Aula 1 - Introdução: 
 
