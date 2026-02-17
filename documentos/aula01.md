@@ -16,7 +16,7 @@
 #### Vídeo 3 - iPhone 1 - Steve Jobs MacWorld keynote in 2007
 (https://www.youtube.com/watch?v=VQKMoT-6XSg)
 
-#### Artigo
+#### Artigo - Pensamento para esta leitura: Antes da internet existir, alguém já pensava em links mentais entre documentos.
 - [Artigo Bush, V. (1945). As We May Think](Bush_As_We_May_Think.pdf)
 
 ## Desenvolvimento Aula 1 - Introdução: 
