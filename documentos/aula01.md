@@ -19,7 +19,6 @@
 ### Artigo
 - [Artigo Bush, V. (1945). As We May Think](Bush_As_We_May_Think.pdf)
 
-
 ### Desenvolvimento Aula 1 - Introdução: 
 
 - [ ]  Apresentação plano de ensino atual
