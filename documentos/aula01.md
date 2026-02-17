@@ -8,10 +8,10 @@
 ####  Materiais extras
 
 ## Vídeo 1 - HelpDesk
-[![material complementar]](https://www.youtube.com/watch?v=IJq-x2Vrv8c)
+[LINK VÍDEO 1]](https://www.youtube.com/watch?v=IJq-x2Vrv8c)
 
 ## Vídeo 2 - 1968 “Mother of All Demos” by SRI’s Doug Engelbart and Team
-[![material complementar](help1.png)](https://www.youtube.com/watch?v=IJq-x2Vrv8c)
+[LINK VÍDEO 2)]([https://www.youtube.com/watch?v=IJq-x2Vrv8c](https://www.youtube.com/watch?v=B6rKUf9DWRI))
 
 
 ### Desenvolvimento Aula 1 - Introdução: 
