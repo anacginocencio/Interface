@@ -3,11 +3,10 @@
 
 ### Materiais
 - [Notas de aula Introdução Interface Homem-Computador](Aula_introducao_atualizada.pdf)
+- [![Introdução - Aula Rapida](capa_aulas_gravadas.png)](https://youtu.be/Cpx0TKkwgHk)
 
 
 ###  Materiais extras
-
-[![Introdução - Aula Rapida](capa_aulas_gravadas.png)](https://youtu.be/Cpx0TKkwgHk)
 
 #### Vídeo 1 - HelpDesk
 (https://www.youtube.com/watch?v=IJq-x2Vrv8c)
