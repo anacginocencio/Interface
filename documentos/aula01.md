@@ -8,13 +8,16 @@
 
 ###  Materiais extras
 
-#### Vídeo 1 - HelpDesk
+#### Vídeo 1 - Vídeo curto Aula Introdução
+[![Introdução - Aula Rapida](capa_git_aulas.png)](https://youtu.be/Cpx0TKkwgHk)
+
+#### Vídeo 2 - HelpDesk
 (https://www.youtube.com/watch?v=IJq-x2Vrv8c)
 
-#### Vídeo 2 - 1968 “Mother of All Demos” by SRI’s Doug Engelbart and Team
+#### Vídeo 3 - 1968 “Mother of All Demos” by SRI’s Doug Engelbart and Team
 (https://www.youtube.com/watch?v=IJq-x2Vrv8c](https://www.youtube.com/watch?v=B6rKUf9DWRI)
 
-#### Vídeo 3 - iPhone 1 - Steve Jobs MacWorld keynote in 2007
+#### Vídeo 4 - iPhone 1 - Steve Jobs MacWorld keynote in 2007
 (https://www.youtube.com/watch?v=VQKMoT-6XSg)
 
 #### Artigo - Pensamento para esta leitura: Antes da internet existir, alguém já pensava em links mentais entre documentos.
