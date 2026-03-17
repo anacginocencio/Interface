@@ -1,8 +1,9 @@
 ## AULAS - UNIDADE I
 - [Introdução - 4h](aula01.md)
 - [Conceitos Básicos - 4h](aula02.md)
+- [Abordagens Teóricas em IHC - 6h](aula03.md)
+
 <!--
-- [Abordagens Teóricas em IHC - 4h](aula03.md)
 - [Processos de Design de IHC - 4h ](aula04.md)
 - [Necessidades de Usuários e Requisitos - 4h](aula05.md)
 - [Organização do Espaço Problema e Apresentação Projeto a ser desenvolvido - 4h](aula06.md)
