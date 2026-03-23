@@ -2,12 +2,7 @@
 ## Tema aula - Abordagens Teóricas em IHC
 
 ### Materiais
-- [Notas de aula Conceitos Básicos - Parte I e Parte II](abordagens_teoricas_em_ihc_completo.pdf)
-
-
-### Videoaulas interface Homem-Computador -  Conceitos Básicos - Parte I e Parte II
-[![Abordagens Teóricas PARTE I](capa_5.png)](https://youtu.be/hMWDWAbxbVU)
-[![Abordagens Teóricas PARTE II](capa_6.png)](https://youtu.be/aj_t-kYcjeE)
+- [Notas de aula Abordagens Teóricas em IHC](Aula3_abordagens_teoricas_atualizada.pdf)
 
 ### Material Complementar - O problema de uma interface -  O Abduzido PIXAR
 [![Problema de interface](abduzido.png)](https://www.youtube.com/watch?v=LVLoc6FrLi0&t=2s)
@@ -24,7 +19,6 @@
 - [ ]  Psicologia Cognitiva Aplicada (Percepção das Cores)
 - [ ]  Engenharia Cognitiva (tradução variáveis psicológicas em variáveis físicas) exemplo torneira
 - [ ]  Engenharia Cognitiva (Golfo de execução e golfo de avaliação)
-- [ ]  Escher e a percepção
 
 ### Desenvolvimento Aula Abordagens Teóricas em IHC - Parte II: 
 
@@ -34,6 +28,9 @@
 - [ ]  Análise da conversação
 - [ ]  Teoria da atividade
 - [ ]  Cognição distribuída (amplia a semântica de cognitiva para abranger as interaçõa entre pessoas, recursos e materiais no ambiente)
+
+### Desenvolvimento Aula Abordagens Teóricas em IHC - Parte III: 
+      
 - [ ]  Engenharia Semiótica (centrada na comunicação)
 - [ ]  Metacomunicação ou Metamensagem
 - [ ]  Os signos na engenharia semiótica (exemplo maçã)
