@@ -1,19 +1,15 @@
 # Aula 05 - Interface Homem-Computador
-# Tema aula - Identificação de necessidades dos usuários e requisitos de IHC
+# Tema aula - Identificação de necessidades dos usuários
 
 
 ### Materiais
-- [Notas de aula Identificação de necessidades dos usuários e requisitos de IHC - Parte I e Parte II](identificacao_necessidades_usuarios_requisitos_ihc.pdf)
+- [Notas de aula Identificação de necessidades dos usuários](Aula5_identificacao_necessidades_usuarios_atualizada.pdf)
 
-
-### Videoaulas Interface Homem-Computador -  Identificação de necessidades dos usuários e requisitos de IHC - Parte I e Parte II
-[![Identificação de Necessidades dos Usuários e Requisitos de IHC - Parte I](capa_10.png)](https://youtu.be/JN7ojIqVpVY)
-[![Identificação de Necessidades dos Usuários e Requisitos de IHC - Parte II](capa_11.png)](https://youtu.be/H2m1vJw7gmY)
 
 ### Material Extra
 [![Design Thinking - Um exemplo de Brainstorming](design.png)](https://www.youtube.com/watch?v=iZbXiWNeYcg)
 
-### Desenvolvimento Identificação de Necessidades dos Usuários e Requisitos de IHC - Parte I 
+### Desenvolvimento Identificação de Necessidades dos Usuários - Parte I 
 
 - [ ]  Pontos principais envolvidos na coleta de dados: Definição dos objetivos, Relacionamento com participantes, Triangulação, Estudo piloto
 - [ ]  Que dados coletar?
@@ -29,17 +25,15 @@
 - [ ]  Análise interparticipante e intraparticipante.
 
 
-### Desenvolvimento Identificação de Necessidades dos Usuários e Requisitos de IHC - Parte II 
+### Desenvolvimento Identificação de Necessidades dos Usuários - Parte II 
 
 - [ ]  Como coletar? Questionários
 - [ ]  Tipos de perguntas
 - [ ]  Escala de Likert
-- [ ]  Escala de diferenciais semânticos
 - [ ]  Perguntas abertas
 - [ ]  Grupos de foco
 - [ ]  Brainstorming de necessidades e desejos dos usuários - Principais regras
 - [ ]  Grupo de foco X Brainstorming - diferenças
 - [ ]  Estudos de campo
 - [ ]  Investigação contextual
-- [ ]  Modelo mestre-aprendiz
-- [ ]  Atividade prática valendo 200 XP e 3cristais
+
