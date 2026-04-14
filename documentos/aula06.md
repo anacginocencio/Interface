@@ -3,13 +3,7 @@
 
 
 ### Materiais
-- [Notas de aula Organização do Espaço Problema - Parte I e Parte II](organizacao_espaco_problema_completo.pdf)
-
-
-### Videoaulas Interface Homem-Computador -  Organização do Espaço Problema
-[![Organização do Espaço Problema - Parte I](capa_12.png)](https://youtu.be/bpqAcgxIpH8)
-[![Organização do Espaço Problema - Parte II](capa_13.png)](https://youtu.be/YmvQrZbLnuQ)
-
+- [Notas de aula Organização do Espaço Problema](Aula6_organizacao_espaco_problema_atualizada.pdf)
 
 
 ### Organização do Espaço Problema - Parte I 
@@ -35,10 +29,6 @@
 - [ ]  Análise Hierárquica de tarefas, GOMS, Árvores de Tarefas Concorrentes
 - [ ]  Análise Hierárquica de tarefas - Tem-se objetivos, subobjetivos e operações
 - [ ]  Plano define a ordem que os subogjetivos devem ser alcançados
-- [ ]  GOMS (Objetivos, Operadores, Métodos e Regras de Seleção)
-- [ ]  KLM, CMN-GOMS e CPM-GOMS
-- [ ]  KLM é a mais simples, limitada a um conjunto predefinido de operadores primitivos
-- [ ]  CMN-GOMS tem uma hierarquia de objetivos e operadores (notação semelhante a pseudocódigo) - Exemplo encontrar sentido de uma rua no MAPS
-- [ ]  CPM-GOMS - representa operadores cognitivos, perceptivos e motores, sendo baseado diretamento no processador humano de informações
 - [ ]  Árvore de tarefas concorrentes (Tarefas do usuário, Tarefas do sistema, Tarefas interativas e Tarefas abstratas)
+- [ ]  Projeto de Interface - Atribuição de atividade
 
