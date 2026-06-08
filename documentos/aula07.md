@@ -3,7 +3,7 @@
 
 
 ### Materiais
-- [Notas de aula Design de IHC - Parte I, Parte II e Parte III](design_de_ihc.pdf)
+- [Notas de aula Design de IHC - Parte I, Parte II e Parte III](design_de_ihc_atualizada.pdf)
 
 
 ### Videoaulas Interface Homem-Computador -  Design de IHC
