@@ -3,7 +3,7 @@
 
 
 ### Materiais
-- [Notas de aula Planejamento da Avaliação de IHC - Parte I, Parte II e Parte III](planejamento_avaliacao_ihc.pdf)
+- [Notas de aula Planejamento da Avaliação de IHC - Parte I, Parte II e Parte III](Aula9_planejamento_avaliacao_ihc_atualizada.pdf)
 
 
 ### Videoaulas Interface Homem-Computador -  Planejamento Avaliação IHC
