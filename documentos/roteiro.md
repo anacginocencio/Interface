@@ -9,6 +9,6 @@
 ## AULAS - UNIDADE II
 - [Design de IHC - 6h](aula07.md)
 - [Princípios e Diretrizes para o Design de IHC - 4h](aula08.md)
-- [Planejamento e Avaliação de IHC - 6h](aula09.md)
-- [Métodos de Avaliação - 6h](aula10.md)
+- [Planejamento e Avaliação de IHC - 4h](aula09.md)
+- [Métodos de Avaliação - 4h](aula10.md)
 
